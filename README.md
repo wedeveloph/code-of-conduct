@@ -5,7 +5,7 @@ Developh is a student-run community that exists to provide opportunities for mak
 
 We do not merely promote tolerance, rather, aim to actively focus on improving diversity, representing ideals and opinions from people of all backgrounds and perspectives. If ever you feel that Developh's conversations are growing too one-sided or is lacking in the community aspect, we encourage you to reach out to us so we can strengthen these efforts (but hope it would not come to the situation where this would have to be called out on us). In promoting a technology community, it's important to represent opinions from all nodes and branches--we live on tech built for the world, by the world.
 
-For clear policies and guidelines in case of any issues, please read the following document. It is of our utmost priority to ensure that every member feels included and has the ideal experience within the organization.
+It is of our utmost priority to ensure that every member feels included and has the ideal experience within the organization.
 
 ## Rules
 
@@ -14,11 +14,11 @@ For clear policies and guidelines in case of any issues, please read the followi
 Essentially.
 
 
-If you are experiencing an issue with a member or officer of the organization (applicable to all chapters and subdivisions, including Cipher and Developh community/school chapters) please privately consult either *any of the group administrators* on Facebook via private message.
+If you are experiencing an issue with a member or executive within the organization please privately consult either *any of the group administrators* on Facebook via private message or the organization's email.
 
 ## Inclusivity Statement
 
-We encourage individuals, whether students or not, from any background or topic of interest to be a part of our community; the only requirement being an interest or passion towards technology. We explicitly honor diversity of all kinds and forms, and do *not* tolerate any sorts of discrimination; whether from our members within the organization, behavior at Developh events and of its sponsors or affiliated groups.
+We encourage individuals from any background to be a part of our community; the only requirement being an interest or passion towards technology. We explicitly honor diversity of all kinds and forms, and do *not* tolerate any sorts of discrimination; whether from our members within the organization, behavior at Developh events or of its sponsors and affiliated groups.
 
 
 
