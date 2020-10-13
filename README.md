@@ -1,7 +1,7 @@
 # Code of Conduct
-The official Developh Code of Conduct, implemented across all chapters and subdivisons.
+The official Developh Code of Conduct.
 
-Developh is a student-run community that exists to provide opportunities for makers, as well as a space for inclusivity and collaboration. In the provision of an empowering and diverse experience, we stipulate these rules to ensure safety and security across our community. These rules are to be strictly followed; without the community, Developh is nothing.
+Developh is a student-run community that exists to provide opportunities for technologists, designers, founders, and student creators, as well as a space for inclusivity and collaboration. In the provision of an empowering and diverse experience, we stipulate these rules to ensure safety and security across our community. These rules are to be strictly followed; without the community, Developh is nothing.
 
 We do not merely promote tolerance, rather, aim to actively focus on improving diversity, representing ideals and opinions from people of all backgrounds and perspectives. If ever you feel that Developh's conversations are growing too one-sided or is lacking in the community aspect, we encourage you to reach out to us so we can strengthen these efforts (but hope it would not come to the situation where this would have to be called out on us). In promoting a technology community, it's important to represent opinions from all nodes and branches--we live on tech built for the world, by the world.
 
